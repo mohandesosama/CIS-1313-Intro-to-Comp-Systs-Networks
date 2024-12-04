@@ -11,6 +11,9 @@ Upon successful completion of the course, the student will be able to:
 ## Course Resources
 E-text Title: Computer Systems: A Programmer's Perspective, Randal E. Bryant; David R. O'Hallaron
 
+## Download Packet Tracer 
+Because Cisco changes its version frequently, the lab files are working with Packet Tracer 8.2.2. 
+You can download it [here](https://drive.google.com/drive/folders/1owQ7hXpHS_ndm-d4CrS9JI_TXqc98caF?usp=sharing)
 ## Teacher 
 Osama Hosameldeen
 
